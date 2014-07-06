@@ -1,0 +1,23 @@
+{
+  "name": "tessel-nrf-receiver",
+  "version": "0.0.0",
+  "description": "",
+  "main": "nrf.js",
+  "dependencies": {
+    "rf-nrf24": "^0.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SomeoneWeird/tessel-nrf-receiver.git"
+  },
+  "author": "Adam Brady <adam@boxxen.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SomeoneWeird/tessel-nrf-receiver/issues"
+  },
+  "homepage": "https://github.com/SomeoneWeird/tessel-nrf-receiver"
+}
